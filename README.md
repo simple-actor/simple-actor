@@ -10,6 +10,13 @@ The repos here are working examples: the problem, a Node and a Python script, an
 
 **[How to get the email of every dentist in Miami from Google Maps](https://simple-actor.github.io/email-every-dentist-miami-google-maps/)**: 182 practices, 81 email addresses, 31 cents, and where it falls short. Code: [google-maps-email-scraper](https://github.com/simple-actor/google-maps-email-scraper)
 
+## Use them without writing code
+
+<p>
+<a href="https://github.com/simple-actor/n8n-claude-lead-generation/tree/main/n8n"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/n8n-workflows-dark.png"><img src="cards/n8n-workflows-light.png" alt="n8n workflows: Four tested workflows: Maps leads to Sheets, competitor ads digest, job alerts, CRM enrichment" width="400"></picture></a>
+<a href="https://github.com/simple-actor/n8n-claude-lead-generation/tree/main/claude"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/claude-guides-dark.png"><img src="cards/claude-guides-light.png" alt="Claude guides: Ask Claude for leads in plain words; it runs the scrapers through Apify&#x27;s MCP server" width="400"></picture></a>
+</p>
+
 ## The scrapers
 
 ### Leads and local businesses
