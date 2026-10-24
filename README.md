@@ -6,7 +6,7 @@ The repos here are working examples: the problem, a Node and a Python script, an
 
 ## Latest write-up
 
-<a href="https://simple-actor.github.io/email-every-dentist-miami-google-maps/"><img src="posts/email-every-dentist-miami-google-maps.png" alt="Every dentist in Miami, with an email address" width="100%"></a>
+<a href="https://simple-actor.github.io/email-every-dentist-miami-google-maps/"><img src="posts/email-every-dentist-miami-google-maps.png" alt="Every dentist in Miami, with an email address. 182 practices, 81 emails, $0.31." width="100%"></a>
 
 **[How to get the email of every dentist in Miami from Google Maps](https://simple-actor.github.io/email-every-dentist-miami-google-maps/)**: 182 practices, 81 email addresses, 31 cents, and where it falls short. Code: [google-maps-email-scraper](https://github.com/simple-actor/google-maps-email-scraper)
 
