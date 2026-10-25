@@ -6,9 +6,9 @@ The repos here are working examples: the problem, a Node and a Python script, an
 
 ## Latest write-up
 
-<a href="https://simple-actor.github.io/google-maps-results-limit-austin-coffee-shops/"><img src="posts/google-maps-results-limit-austin-coffee-shops.png" alt="Google Maps stopped at 153 coffee shops in Austin. I found 471. 153 from one search, 471 from seven, $0.42." width="100%"></a>
+<a href="https://simple-actor.github.io/find-email-address-list-of-websites-manchester-accountants/"><img src="posts/find-email-address-list-of-websites-manchester-accountants.png" alt="The home page gave me 27 email addresses. Five pages gave me 32. 36 firms, 32 with an email, $0.12 for the run." width="100%"></a>
 
-**[How to get past the Google Maps results limit (153 coffee shops in Austin became 471)](https://simple-actor.github.io/google-maps-results-limit-austin-coffee-shops/)**: 153 places from one search, 471 from seven, 42 cents, and the duplicates you pay for. Code: [google-maps-scraper](https://github.com/simple-actor/google-maps-scraper)
+**[How to find the email address for a list of company websites (36 accountants in Manchester)](https://simple-actor.github.io/find-email-address-list-of-websites-manchester-accountants/)**: 36 firms' websites, 27 emails from the home page, 32 from five pages, 12 cents, and what came back wrong. Code: [website-email-scraper](https://github.com/simple-actor/website-email-scraper)
 
 ## Use them without writing code
 
