@@ -6,9 +6,9 @@ The repos here are working examples: the problem, a Node and a Python script, an
 
 ## Latest write-up
 
-<a href="https://simple-actor.github.io/find-email-address-list-of-websites-manchester-accountants/"><img src="posts/find-email-address-list-of-websites-manchester-accountants.png" alt="The home page gave me 27 email addresses. Five pages gave me 32. 36 firms, 32 with an email, $0.12 for the run." width="100%"></a>
+<a href="https://simple-actor.github.io/creative-commons-photos-big-enough-to-print-lisbon-tram-28/"><img src="posts/creative-commons-photos-big-enough-to-print-lisbon-tram-28.png" alt="9 of 300 photos were 3,000 px wide. Two filters found 26 with a CC label. 26 images, 6 sites, $0.017 a search." width="100%"></a>
 
-**[How to find the email address for a list of company websites (36 accountants in Manchester)](https://simple-actor.github.io/find-email-address-list-of-websites-manchester-accountants/)**: 36 firms' websites, 27 emails from the home page, 32 from five pages, 12 cents, and what came back wrong. Code: [website-email-scraper](https://github.com/simple-actor/website-email-scraper)
+**[How to find Creative Commons photos big enough to print (26 of Lisbon's Tram 28)](https://simple-actor.github.io/creative-commons-photos-big-enough-to-print-lisbon-tram-28/)**: 26 Creative Commons-labelled photos of Lisbon's Tram 28, all 3,000 px or wider, for 1.7 cents, and 3 of them not Lisbon at all. Code: [google-images-scraper](https://github.com/simple-actor/google-images-scraper)
 
 ## Use them without writing code
 
