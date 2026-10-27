@@ -6,9 +6,9 @@ The repos here are working examples: the problem, a Node and a Python script, an
 
 ## Latest write-up
 
-<a href="https://simple-actor.github.io/creative-commons-photos-big-enough-to-print-lisbon-tram-28/"><img src="posts/creative-commons-photos-big-enough-to-print-lisbon-tram-28.png" alt="9 of 300 photos were 3,000 px wide. Two filters found 26 with a CC label. 26 images, 6 sites, $0.017 a search." width="100%"></a>
+<a href="https://simple-actor.github.io/how-busy-is-a-restaurant-opentable-chicago-steak/"><img src="posts/how-busy-is-a-restaurant-opentable-chicago-steak.png" alt="The busiest of 50 was Italian, booked 269 times, and OpenTable listed it 28th. 50 restaurants, 69 seconds, $0.0275 a search." width="100%"></a>
 
-**[How to find Creative Commons photos big enough to print (26 of Lisbon's Tram 28)](https://simple-actor.github.io/creative-commons-photos-big-enough-to-print-lisbon-tram-28/)**: 26 Creative Commons-labelled photos of Lisbon's Tram 28, all 3,000 px or wider, for 1.7 cents, and 3 of them not Lisbon at all. Code: [google-images-scraper](https://github.com/simple-actor/google-images-scraper)
+**[How to tell how busy a restaurant is from OpenTable (50 steak restaurants in Chicago, ranked)](https://simple-actor.github.io/how-busy-is-a-restaurant-opentable-chicago-steak/)**: 50 Chicago restaurants ranked by OpenTable's own booking count for 2.75 cents, and why a count of 2 isn't always a quiet restaurant. Code: [opentable-scraper](https://github.com/simple-actor/opentable-scraper)
 
 ## Use them without writing code
 
