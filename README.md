@@ -6,9 +6,9 @@ The repos here are working examples: the problem, a Node and a Python script, an
 
 ## Latest write-up
 
-<a href="https://simple-actor.github.io/how-busy-is-a-restaurant-opentable-chicago-steak/"><img src="posts/how-busy-is-a-restaurant-opentable-chicago-steak.png" alt="The busiest of 50 was Italian, booked 269 times, and OpenTable listed it 28th. 50 restaurants, 69 seconds, $0.0275 a search." width="100%"></a>
+<a href="https://simple-actor.github.io/find-business-website-email-instagram-from-name-new-york-bagels/"><img src="posts/find-business-website-email-instagram-from-name-new-york-bagels.png" alt="8 New York bagel shops, names only. A name and a neighbourhood in; Google&#x27;s rating, the website&#x27;s email and the Instagram count out. 8 businesses, 4 Instagram counts, $0.020 each." width="100%"></a>
 
-**[How to tell how busy a restaurant is from OpenTable (50 steak restaurants in Chicago, ranked)](https://simple-actor.github.io/how-busy-is-a-restaurant-opentable-chicago-steak/)**: 50 Chicago restaurants ranked by OpenTable's own booking count for 2.75 cents, and why a count of 2 isn't always a quiet restaurant. Code: [opentable-scraper](https://github.com/simple-actor/opentable-scraper)
+**[How to find a business's website, email and Instagram from just its name (8 New York bagel shops)](https://simple-actor.github.io/find-business-website-email-instagram-from-name-new-york-bagels/)**: 8 bagel shop names became 8 rows with Google ratings, 3 emails and 4 Instagram counts for 15.9 cents, and 3 rows had something wrong. Code: [business-email-and-social-finder](https://github.com/simple-actor/business-email-and-social-finder)
 
 ## Use them without writing code
 
