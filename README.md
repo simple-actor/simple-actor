@@ -6,9 +6,9 @@ The repos here are working examples: the problem, a Node and a Python script, an
 
 ## Latest write-up
 
-<a href="https://simple-actor.github.io/find-business-website-email-instagram-from-name-new-york-bagels/"><img src="posts/find-business-website-email-instagram-from-name-new-york-bagels.png" alt="8 New York bagel shops, names only. A name and a neighbourhood in; Google&#x27;s rating, the website&#x27;s email and the Instagram count out. 8 businesses, 4 Instagram counts, $0.020 each." width="100%"></a>
+<a href="https://simple-actor.github.io/edinburgh-hotel-prices-new-years-eve-booking-com/"><img src="posts/edinburgh-hotel-prices-new-years-eve-booking-com.png" alt="The same hotels on New Year&#x27;s Eve cost 5.2 times what they cost two weeks later. 140 places left on 31 December, 528 on 14 January, 32 hotels compared." width="100%"></a>
 
-**[How to find a business's website, email and Instagram from just its name (8 New York bagel shops)](https://simple-actor.github.io/find-business-website-email-instagram-from-name-new-york-bagels/)**: 8 bagel shop names became 8 rows with Google ratings, 3 emails and 4 Instagram counts for 15.9 cents, and 3 rows had something wrong. Code: [business-email-and-social-finder](https://github.com/simple-actor/business-email-and-social-finder)
+**[How much more do Edinburgh hotels cost on New Year's Eve? (Booking.com prices for the same hotels, two weeks apart)](https://simple-actor.github.io/edinburgh-hotel-prices-new-years-eve-booking-com/)**: 140 Edinburgh places bookable for Hogmanay against 528 two weeks later, the same hotels at a median 5.2 times the price, read from Booking.com for 99 cents. Code: [booking-hotel-price-scraper](https://github.com/simple-actor/booking-hotel-price-scraper)
 
 ## Use them without writing code
 
