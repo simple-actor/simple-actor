@@ -6,9 +6,9 @@ The repos here are working examples: the problem, a Node and a Python script, an
 
 ## Latest write-up
 
-<a href="https://simple-actor.github.io/edinburgh-hotel-prices-new-years-eve-booking-com/"><img src="posts/edinburgh-hotel-prices-new-years-eve-booking-com.png" alt="The same hotels on New Year&#x27;s Eve cost 5.2 times what they cost two weeks later. 140 places left on 31 December, 528 on 14 January, 32 hotels compared." width="100%"></a>
+<a href="https://simple-actor.github.io/compare-facebook-engagement-between-pages-london-museums/"><img src="posts/compare-facebook-engagement-between-pages-london-museums.png" alt="The National Gallery&#x27;s typical post drew 1,331 reactions, comments and shares. The Science Museum&#x27;s drew 15. 56 posts, 7 pages, photos 641 against videos 162." width="100%"></a>
 
-**[How much more do Edinburgh hotels cost on New Year's Eve? (Booking.com prices for the same hotels, two weeks apart)](https://simple-actor.github.io/edinburgh-hotel-prices-new-years-eve-booking-com/)**: 140 Edinburgh places bookable for Hogmanay against 528 two weeks later, the same hotels at a median 5.2 times the price, read from Booking.com for 99 cents. Code: [booking-hotel-price-scraper](https://github.com/simple-actor/booking-hotel-price-scraper)
+**[How to compare Facebook engagement between pages (7 London museums, 56 posts)](https://simple-actor.github.io/compare-facebook-engagement-between-pages-london-museums/)**: 56 Facebook posts from 7 London museums, ranked per post and per 1,000 followers; photos beat video at 5 of 7. One wrong page and two unreadable ones on the way, for 9.8 cents. Code: [facebook-page-engagement-scraper](https://github.com/simple-actor/facebook-page-engagement-scraper)
 
 ## Use them without writing code
 
