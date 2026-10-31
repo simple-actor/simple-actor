@@ -6,9 +6,9 @@ The repos here are working examples: the problem, a Node and a Python script, an
 
 ## Latest write-up
 
-<a href="https://simple-actor.github.io/compare-facebook-engagement-between-pages-london-museums/"><img src="posts/compare-facebook-engagement-between-pages-london-museums.png" alt="The National Gallery&#x27;s typical post drew 1,331 reactions, comments and shares. The Science Museum&#x27;s drew 15. 56 posts, 7 pages, photos 641 against videos 162." width="100%"></a>
+<a href="https://simple-actor.github.io/get-table-booked-out-restaurant-resy-new-york/"><img src="posts/get-table-booked-out-restaurant-resy-new-york.png" alt="Carbone, Torrisi, 4 Charles and Tatiana had no open day for two in the next 30 days. Misi had 25. 3 of 8 restaurants with any open day, 43 open days in all, $0.008 a run." width="100%"></a>
 
-**[How to compare Facebook engagement between pages (7 London museums, 56 posts)](https://simple-actor.github.io/compare-facebook-engagement-between-pages-london-museums/)**: 56 Facebook posts from 7 London museums, ranked per post and per 1,000 followers; photos beat video at 5 of 7. One wrong page and two unreadable ones on the way, for 9.8 cents. Code: [facebook-page-engagement-scraper](https://github.com/simple-actor/facebook-page-engagement-scraper)
+**[How to get a table at a booked-out New York restaurant on Resy (8 restaurants, 30 days)](https://simple-actor.github.io/get-table-booked-out-restaurant-resy-new-york/)**: Resy's own booking calendar for 8 New York restaurants, 30 days out: 4 with no open day for two, Misi with 25, and a Lilia table that opened up between two runs. Lunch and 5pm count as available. $0.008 a check. Code: [resy-table-finder](https://github.com/simple-actor/resy-table-finder)
 
 ## Use them without writing code
 
