@@ -6,9 +6,9 @@ The repos here are working examples: the problem, a Node and a Python script, an
 
 ## Latest write-up
 
-<a href="https://simple-actor.github.io/get-table-booked-out-restaurant-resy-new-york/"><img src="posts/get-table-booked-out-restaurant-resy-new-york.png" alt="Carbone, Torrisi, 4 Charles and Tatiana had no open day for two in the next 30 days. Misi had 25. 3 of 8 restaurants with any open day, 43 open days in all, $0.008 a run." width="100%"></a>
+<a href="https://simple-actor.github.io/website-clean-text-for-llm-yosemite/"><img src="posts/website-clean-text-for-llm-yosemite.png" alt="842,006 characters of HTML. 78,433 of them were the page. 15 pages, 9.3% of the markup was text, $0.03 for the run." width="100%"></a>
 
-**[How to get a table at a booked-out New York restaurant on Resy (8 restaurants, 30 days)](https://simple-actor.github.io/get-table-booked-out-restaurant-resy-new-york/)**: Resy's own booking calendar for 8 New York restaurants, 30 days out: 4 with no open day for two, Misi with 25, and a Lilia table that opened up between two runs. Lunch and 5pm count as available. $0.008 a check. Code: [resy-table-finder](https://github.com/simple-actor/resy-table-finder)
+**[How to turn a website into clean text for an LLM (15 pages of Yosemite's park site)](https://simple-actor.github.io/website-clean-text-for-llm-yosemite/)**: 15 Yosemite pages, 842,006 characters of HTML down to 78,433 of text for 3 cents, and 17 banner and footer sentences that came along on every page. Code: [website-to-text-for-llm](https://github.com/simple-actor/website-to-text-for-llm)
 
 ## Use them without writing code
 
