@@ -6,9 +6,9 @@ The repos here are working examples: the problem, a Node and a Python script, an
 
 ## Latest write-up
 
-<a href="https://simple-actor.github.io/website-clean-text-for-llm-yosemite/"><img src="posts/website-clean-text-for-llm-yosemite.png" alt="842,006 characters of HTML. 78,433 of them were the page. 15 pages, 9.3% of the markup was text, $0.03 for the run." width="100%"></a>
+<a href="https://simple-actor.github.io/short-videos-rank-on-google-keyword-sourdough-starter/"><img src="posts/short-videos-rank-on-google-keyword-sourdough-starter.png" alt="96 short videos ranked on Google. 4 of them were TikToks. 47 YouTube, 25 Facebook, 16 Instagram, $0.08." width="100%"></a>
 
-**[How to turn a website into clean text for an LLM (15 pages of Yosemite's park site)](https://simple-actor.github.io/website-clean-text-for-llm-yosemite/)**: 15 Yosemite pages, 842,006 characters of HTML down to 78,433 of text for 3 cents, and 17 banner and footer sentences that came along on every page. Code: [website-to-text-for-llm](https://github.com/simple-actor/website-to-text-for-llm)
+**[How to see which short videos rank on Google for a keyword (96 for "sourdough starter", 4 of them TikToks)](https://simple-actor.github.io/short-videos-rank-on-google-keyword-sourdough-starter/)**: 96 short videos Google ranks for "sourdough starter", by platform, for 8 cents: YouTube 47, TikTok 4, dates only on YouTube and no view counts. Code: [google-short-videos-scraper](https://github.com/simple-actor/google-short-videos-scraper)
 
 ## Use them without writing code
 
