@@ -6,9 +6,9 @@ The repos here are working examples: the problem, a Node and a Python script, an
 
 ## Latest write-up
 
-<a href="https://simple-actor.github.io/short-videos-rank-on-google-keyword-sourdough-starter/"><img src="posts/short-videos-rank-on-google-keyword-sourdough-starter.png" alt="96 short videos ranked on Google. 4 of them were TikToks. 47 YouTube, 25 Facebook, 16 Instagram, $0.08." width="100%"></a>
+<a href="https://simple-actor.github.io/see-every-google-ad-competitor-started-this-month-mattress-brands/"><img src="posts/see-every-google-ad-competitor-started-this-month-mattress-brands.png" alt="Casper&#x27;s newest Google ads say the sale ends today. 695 ads shown in 30 days, 136 new, $0.48." width="100%"></a>
 
-**[How to see which short videos rank on Google for a keyword (96 for "sourdough starter", 4 of them TikToks)](https://simple-actor.github.io/short-videos-rank-on-google-keyword-sourdough-starter/)**: 96 short videos Google ranks for "sourdough starter", by platform, for 8 cents: YouTube 47, TikTok 4, dates only on YouTube and no view counts. Code: [google-short-videos-scraper](https://github.com/simple-actor/google-short-videos-scraper)
+**[How to see every Google ad a competitor started this month (136 new ads from three mattress brands)](https://simple-actor.github.io/see-every-google-ad-competitor-started-this-month-mattress-brands/)**: 136 Google ads three mattress brands started in 30 days, dated to the day, for 48 cents. Most can't be read as text: 84 of the brands' 115 are preview-only. Code: [competitor-google-ads-scraper](https://github.com/simple-actor/competitor-google-ads-scraper)
 
 ## Use them without writing code
 
