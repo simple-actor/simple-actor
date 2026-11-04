@@ -6,9 +6,9 @@ The repos here are working examples: the problem, a Node and a Python script, an
 
 ## Latest write-up
 
-<a href="https://simple-actor.github.io/see-every-google-ad-competitor-started-this-month-mattress-brands/"><img src="posts/see-every-google-ad-competitor-started-this-month-mattress-brands.png" alt="Casper&#x27;s newest Google ads say the sale ends today. 695 ads shown in 30 days, 136 new, $0.48." width="100%"></a>
+<a href="https://simple-actor.github.io/exact-youtube-view-counts-channel-videos-nasa-spacex/"><img src="posts/exact-youtube-view-counts-channel-videos-nasa-spacex.png" alt="YouTube says 9.5M views. The exact count is 9,599,850. 120 videos, 119 rounded down, $0.14." width="100%"></a>
 
-**[How to see every Google ad a competitor started this month (136 new ads from three mattress brands)](https://simple-actor.github.io/see-every-google-ad-competitor-started-this-month-mattress-brands/)**: 136 Google ads three mattress brands started in 30 days, dated to the day, for 48 cents. Most can't be read as text: 84 of the brands' 115 are preview-only. Code: [competitor-google-ads-scraper](https://github.com/simple-actor/competitor-google-ads-scraper)
+**[How to get exact view counts for a YouTube channel's videos (120 videos from NASA, ESA, SpaceX and Blue Origin)](https://simple-actor.github.io/exact-youtube-view-counts-channel-videos-nasa-spacex/)**: Exact views, likes and publish days for 120 videos from four space channels, for 14 cents. The limit is 30 videos a channel, and most rows get the publish day, not the time. Code: [youtube-channel-stats-scraper](https://github.com/simple-actor/youtube-channel-stats-scraper)
 
 ## Use them without writing code
 
