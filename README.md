@@ -6,9 +6,9 @@ The repos here are working examples: the problem, a Node and a Python script, an
 
 ## Latest write-up
 
-<a href="https://simple-actor.github.io/exact-youtube-view-counts-channel-videos-nasa-spacex/"><img src="posts/exact-youtube-view-counts-channel-videos-nasa-spacex.png" alt="YouTube says 9.5M views. The exact count is 9,599,850. 120 videos, 119 rounded down, $0.14." width="100%"></a>
+<a href="https://simple-actor.github.io/linkedin-follower-counts-list-of-companies-european-airlines/"><img src="posts/linkedin-follower-counts-list-of-companies-european-airlines.png" alt="Aer Lingus has an eighth of British Airways&#x27; LinkedIn followers. Its posts get more reactions. 15 airlines, 8,187,096 followers, 1.7 cents." width="100%"></a>
 
-**[How to get exact view counts for a YouTube channel's videos (120 videos from NASA, ESA, SpaceX and Blue Origin)](https://simple-actor.github.io/exact-youtube-view-counts-channel-videos-nasa-spacex/)**: Exact views, likes and publish days for 120 videos from four space channels, for 14 cents. The limit is 30 videos a channel, and most rows get the publish day, not the time. Code: [youtube-channel-stats-scraper](https://github.com/simple-actor/youtube-channel-stats-scraper)
+**[How to get LinkedIn follower counts for a list of companies (15 European airlines)](https://simple-actor.github.io/linkedin-follower-counts-list-of-companies-european-airlines/)**: Follower counts, size, headquarters and latest posts for 15 European airlines from their LinkedIn pages, for 1.7 cents. The slug has to be right: two of mine read the wrong company and were still charged. Code: [linkedin-company-followers-scraper](https://github.com/simple-actor/linkedin-company-followers-scraper)
 
 ## Use them without writing code
 
