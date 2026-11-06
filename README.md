@@ -6,9 +6,9 @@ The repos here are working examples: the problem, a Node and a Python script, an
 
 ## Latest write-up
 
-<a href="https://simple-actor.github.io/linkedin-follower-counts-list-of-companies-european-airlines/"><img src="posts/linkedin-follower-counts-list-of-companies-european-airlines.png" alt="Aer Lingus has an eighth of British Airways&#x27; LinkedIn followers. Its posts get more reactions. 15 airlines, 8,187,096 followers, 1.7 cents." width="100%"></a>
+<a href="https://simple-actor.github.io/real-tiktok-engagement-rate-brands-fast-food/"><img src="posts/real-tiktok-engagement-rate-brands-fast-food.png" alt="Domino&#x27;s latest TikToks average 6.2 million views. The typical one got 18,450. 11 brands, 114 posts, 1.2 cents." width="100%"></a>
 
-**[How to get LinkedIn follower counts for a list of companies (15 European airlines)](https://simple-actor.github.io/linkedin-follower-counts-list-of-companies-european-airlines/)**: Follower counts, size, headquarters and latest posts for 15 European airlines from their LinkedIn pages, for 1.7 cents. The slug has to be right: two of mine read the wrong company and were still charged. Code: [linkedin-company-followers-scraper](https://github.com/simple-actor/linkedin-company-followers-scraper)
+**[How to work out a brand's real TikTok engagement rate (11 fast-food chains, 114 posts)](https://simple-actor.github.io/real-tiktok-engagement-rate-brands-fast-food/)**: Engagement rates for 11 fast-food brands' latest 114 TikToks, worked out per post, for 1.2 cents. Totals mislead: two posts held 99.5% of Domino's views. Only the latest 10-13 posts per account are visible. Code: [tiktok-engagement-rate-scraper](https://github.com/simple-actor/tiktok-engagement-rate-scraper)
 
 ## Use them without writing code
 
