@@ -6,9 +6,9 @@ The repos here are working examples: the problem, a Node and a Python script, an
 
 ## Latest write-up
 
-<a href="https://simple-actor.github.io/real-tiktok-engagement-rate-brands-fast-food/"><img src="posts/real-tiktok-engagement-rate-brands-fast-food.png" alt="Domino&#x27;s latest TikToks average 6.2 million views. The typical one got 18,450. 11 brands, 114 posts, 1.2 cents." width="100%"></a>
+<a href="https://simple-actor.github.io/check-which-x-twitter-accounts-still-active-uk-universities/"><img src="posts/check-which-x-twitter-accounts-still-active-uk-universities.png" alt="5 of 23 Russell Group universities posted on X in the last month. 9 haven&#x27;t posted in over a year. 23 accounts, 31 seconds, 1.15 cents." width="100%"></a>
 
-**[How to work out a brand's real TikTok engagement rate (11 fast-food chains, 114 posts)](https://simple-actor.github.io/real-tiktok-engagement-rate-brands-fast-food/)**: Engagement rates for 11 fast-food brands' latest 114 TikToks, worked out per post, for 1.2 cents. Totals mislead: two posts held 99.5% of Domino's views. Only the latest 10-13 posts per account are visible. Code: [tiktok-engagement-rate-scraper](https://github.com/simple-actor/tiktok-engagement-rate-scraper)
+**[How to check which X (Twitter) accounts in a list are still active (24 UK universities)](https://simple-actor.github.io/check-which-x-twitter-accounts-still-active-uk-universities/)**: Last-post dates for 23 UK universities' X accounts in 31 seconds for 1.15 cents. 5 active, 9 silent over a year, 3 last posts are goodbyes. Only the latest 5 posts are visible, and reposts don't count. Code: [x-twitter-account-checker](https://github.com/simple-actor/x-twitter-account-checker)
 
 ## Use them without writing code
 
