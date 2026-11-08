@@ -6,9 +6,9 @@ The repos here are working examples: the problem, a Node and a Python script, an
 
 ## Latest write-up
 
-<a href="https://simple-actor.github.io/check-which-x-twitter-accounts-still-active-uk-universities/"><img src="posts/check-which-x-twitter-accounts-still-active-uk-universities.png" alt="5 of 23 Russell Group universities posted on X in the last month. 9 haven&#x27;t posted in over a year. 23 accounts, 31 seconds, 1.15 cents." width="100%"></a>
+<a href="https://simple-actor.github.io/companies-hiring-data-engineers-austin-linkedin-jobs/"><img src="posts/companies-hiring-data-engineers-austin-linkedin-jobs.png" alt="38 of the 200 jobs LinkedIn showed me for &quot;data engineer&quot; were data engineering jobs. 43 real ones, 28 employers, 1.3 cents." width="100%"></a>
 
-**[How to check which X (Twitter) accounts in a list are still active (24 UK universities)](https://simple-actor.github.io/check-which-x-twitter-accounts-still-active-uk-universities/)**: Last-post dates for 23 UK universities' X accounts in 31 seconds for 1.15 cents. 5 active, 9 silent over a year, 3 last posts are goodbyes. Only the latest 5 posts are visible, and reposts don't count. Code: [x-twitter-account-checker](https://github.com/simple-actor/x-twitter-account-checker)
+**[How to find which companies are hiring data engineers in Austin (28 employers from a week of LinkedIn jobs)](https://simple-actor.github.io/companies-hiring-data-engineers-austin-linkedin-jobs/)**: 43 data engineering jobs from 28 Austin employers, a week of LinkedIn postings, for 1.3 cents. LinkedIn's search is loose (38 of 200 matched), 8 of 43 state pay, and a recruiter can post one role three times. Code: [linkedin-jobs-scraper](https://github.com/simple-actor/linkedin-jobs-scraper)
 
 ## Use them without writing code
 
