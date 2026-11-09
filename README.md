@@ -6,9 +6,9 @@ The repos here are working examples: the problem, a Node and a Python script, an
 
 ## Latest write-up
 
-<a href="https://simple-actor.github.io/companies-hiring-data-engineers-austin-linkedin-jobs/"><img src="posts/companies-hiring-data-engineers-austin-linkedin-jobs.png" alt="38 of the 200 jobs LinkedIn showed me for &quot;data engineer&quot; were data engineering jobs. 43 real ones, 28 employers, 1.3 cents." width="100%"></a>
+<a href="https://simple-actor.github.io/which-websites-rank-on-google-list-of-keywords-espresso/"><img src="posts/which-websites-rank-on-google-list-of-keywords-espresso.png" alt="Reddit was in Google&#x27;s top three for 5 of my 10 espresso searches. YouTube for 3. 117 results, 85 sites, 9 cents." width="100%"></a>
 
-**[How to find which companies are hiring data engineers in Austin (28 employers from a week of LinkedIn jobs)](https://simple-actor.github.io/companies-hiring-data-engineers-austin-linkedin-jobs/)**: 43 data engineering jobs from 28 Austin employers, a week of LinkedIn postings, for 1.3 cents. LinkedIn's search is loose (38 of 200 matched), 8 of 43 state pay, and a recruiter can post one role three times. Code: [linkedin-jobs-scraper](https://github.com/simple-actor/linkedin-jobs-scraper)
+**[How to see which websites rank on Google for a list of keywords (10 espresso searches, 117 results)](https://simple-actor.github.io/which-websites-rank-on-google-list-of-keywords-espresso/)**: Who ranks on Google for 10 espresso keywords, read in one run for 9 cents: Reddit in the top three for 5. Six searches came back with 2 to 7 rows, and a re-read minutes later gave different sites. Code: [google-keyword-rank-checker](https://github.com/simple-actor/google-keyword-rank-checker)
 
 ## Use them without writing code
 
