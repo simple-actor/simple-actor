@@ -6,9 +6,9 @@ The repos here are working examples: the problem, a Node and a Python script, an
 
 ## Latest write-up
 
-<a href="https://simple-actor.github.io/which-websites-rank-on-google-list-of-keywords-espresso/"><img src="posts/which-websites-rank-on-google-list-of-keywords-espresso.png" alt="Reddit was in Google&#x27;s top three for 5 of my 10 espresso searches. YouTube for 3. 117 results, 85 sites, 9 cents." width="100%"></a>
+<a href="https://simple-actor.github.io/how-often-brands-post-on-instagram-outdoor-brands/"><img src="posts/how-often-brands-post-on-instagram-outdoor-brands.png" alt="Columbia&#x27;s last 12 Instagram posts went back 6.5 days. Salomon&#x27;s went back 46. 8 brands, 96 posts, 7 cents." width="100%"></a>
 
-**[How to see which websites rank on Google for a list of keywords (10 espresso searches, 117 results)](https://simple-actor.github.io/which-websites-rank-on-google-list-of-keywords-espresso/)**: Who ranks on Google for 10 espresso keywords, read in one run for 9 cents: Reddit in the top three for 5. Six searches came back with 2 to 7 rows, and a re-read minutes later gave different sites. Code: [google-keyword-rank-checker](https://github.com/simple-actor/google-keyword-rank-checker)
+**[How often do brands post on Instagram? 8 outdoor brands' last 12 posts compared](https://simple-actor.github.io/how-often-brands-post-on-instagram-outdoor-brands/)**: How often 8 outdoor brands post on Instagram, from one 7-cent run: Columbia 12.9 posts a week, Salomon 1.8. A logged-out read carries no like or comment counts, and one guessed handle was the wrong account. Code: [instagram-posting-frequency-checker](https://github.com/simple-actor/instagram-posting-frequency-checker)
 
 ## Use them without writing code
 
